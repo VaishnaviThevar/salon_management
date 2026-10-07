@@ -12,3 +12,9 @@
   - Created backend API handler `get_slots.php` to calculate and return available time slots in JSON format.
   - Integrated frontend JavaScript AJAX requests on `index.php` to prevent double-booking.
 - **Git Activity**: Created feature branch `feature/day2-slots`, committed implementation log, and submitted Pull Request for merging into `main`.
+## Day 3: Booking Logic & Payment Processing Integration
+- **Key Deliverables**:
+  - Implemented core booking submission pipeline in `process_booking.php`.
+  - Configured payment redirect handling and transaction logic in `pay.php`.
+  - Added backend validation to verify appointment slot status prior to checkout.
+- **Git Activity**: Created feature branch `feature/day3-booking`, recorded development milestones, and opened Pull Request for integration into `main`.
