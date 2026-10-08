@@ -18,3 +18,9 @@
   - Configured payment redirect handling and transaction logic in `pay.php`.
   - Added backend validation to verify appointment slot status prior to checkout.
 - **Git Activity**: Created feature branch `feature/day3-booking`, recorded development milestones, and opened Pull Request for integration into `main`.
+## Day 4: Admin Dashboard & Booking Management
+- **Key Deliverables**:
+  - Structured admin panel inside `admin.php` for viewing and managing appointments.
+  - Implemented booking status updates (Confirm/Cancel) and customer overview features.
+  - Integrated `my_bookings.php` interface for user booking history and cancellation requests.
+- **Git Activity**: Created branch `feature/day4-admin`, updated documentation, and opened PR to merge into `main`.
