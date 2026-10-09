@@ -24,3 +24,9 @@
   - Implemented booking status updates (Confirm/Cancel) and customer overview features.
   - Integrated `my_bookings.php` interface for user booking history and cancellation requests.
 - **Git Activity**: Created branch `feature/day4-admin`, updated documentation, and opened PR to merge into `main`.
+## Day 5: Final Testing, UI Polishing & Documentation
+- **Key Deliverables**:
+  - Performed end-to-end testing across user booking, slot availability, and admin management workflows.
+  - Refined UI/UX styling and fixed responsive layout edge cases across pages.
+  - Completed project documentation and finalized production setup.
+- **Git Activity**: Created branch `feature/day5-final-polishing`, completed final log entry, and submitted final PR to `main`.
